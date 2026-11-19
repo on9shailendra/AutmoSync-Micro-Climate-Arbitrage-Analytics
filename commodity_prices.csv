@@ -1,0 +1,1241 @@
+commodity,market,price_date,price_inr_per_kg
+avocado,Delhi Azadpur,17-10-2026,240.51
+avocado,Delhi Azadpur,18-10-2026,242.54
+avocado,Delhi Azadpur,19-10-2026,243.36
+avocado,Delhi Azadpur,20-10-2026,237.99
+avocado,Delhi Azadpur,21-10-2026,233.52
+avocado,Delhi Azadpur,22-10-2026,233.34
+avocado,Delhi Azadpur,23-10-2026,229.4
+avocado,Delhi Azadpur,24-10-2026,231.34
+avocado,Delhi Azadpur,25-10-2026,240.52
+avocado,Delhi Azadpur,26-10-2026,234.8
+avocado,Delhi Azadpur,27-10-2026,235.88
+avocado,Delhi Azadpur,28-10-2026,234.85
+avocado,Delhi Azadpur,29-10-2026,232.11
+avocado,Delhi Azadpur,30-10-2026,234.91
+avocado,Delhi Azadpur,31-10-2026,237.51
+avocado,Delhi Azadpur,01-11-2026,237.85
+avocado,Delhi Azadpur,02-11-2026,236.32
+avocado,Delhi Azadpur,03-11-2026,236.95
+avocado,Delhi Azadpur,04-11-2026,235.7
+avocado,Delhi Azadpur,05-11-2026,233.59
+avocado,Delhi Azadpur,06-11-2026,235.67
+avocado,Delhi Azadpur,07-11-2026,237.14
+avocado,Delhi Azadpur,08-11-2026,239.66
+avocado,Delhi Azadpur,09-11-2026,235.84
+avocado,Delhi Azadpur,10-11-2026,237.06
+avocado,Delhi Azadpur,11-11-2026,237.25
+avocado,Delhi Azadpur,12-11-2026,239.27
+avocado,Delhi Azadpur,13-11-2026,248.54
+avocado,Delhi Azadpur,14-11-2026,248.56
+avocado,Delhi Azadpur,15-11-2026,243.95
+avocado,Delhi Azadpur,16-11-2026,246.27
+avocado,Kolkata,17-10-2026,217.51
+avocado,Kolkata,18-10-2026,219.78
+avocado,Kolkata,19-10-2026,207.17
+avocado,Kolkata,20-10-2026,210.21
+avocado,Kolkata,21-10-2026,210.09
+avocado,Kolkata,22-10-2026,209.14
+avocado,Kolkata,23-10-2026,216.56
+avocado,Kolkata,24-10-2026,224.42
+avocado,Kolkata,25-10-2026,222.95
+avocado,Kolkata,26-10-2026,228.71
+avocado,Kolkata,27-10-2026,232.52
+avocado,Kolkata,28-10-2026,231.27
+avocado,Kolkata,29-10-2026,241.34
+avocado,Kolkata,30-10-2026,231.67
+avocado,Kolkata,31-10-2026,231.5
+avocado,Kolkata,01-11-2026,231.71
+avocado,Kolkata,02-11-2026,233.14
+avocado,Kolkata,03-11-2026,234.42
+avocado,Kolkata,04-11-2026,237.02
+avocado,Kolkata,05-11-2026,239
+avocado,Kolkata,06-11-2026,233.43
+avocado,Kolkata,07-11-2026,234.52
+avocado,Kolkata,08-11-2026,237.4
+avocado,Kolkata,09-11-2026,245.08
+avocado,Kolkata,10-11-2026,234.63
+avocado,Kolkata,11-11-2026,233.51
+avocado,Kolkata,12-11-2026,235.52
+avocado,Kolkata,13-11-2026,239.97
+avocado,Kolkata,14-11-2026,245.42
+avocado,Kolkata,15-11-2026,252.84
+avocado,Kolkata,16-11-2026,249.48
+avocado,Chennai Koyambedu,17-10-2026,222.03
+avocado,Chennai Koyambedu,18-10-2026,229.19
+avocado,Chennai Koyambedu,19-10-2026,231.46
+avocado,Chennai Koyambedu,20-10-2026,232.84
+avocado,Chennai Koyambedu,21-10-2026,235.72
+avocado,Chennai Koyambedu,22-10-2026,239.88
+avocado,Chennai Koyambedu,23-10-2026,236.81
+avocado,Chennai Koyambedu,24-10-2026,240.34
+avocado,Chennai Koyambedu,25-10-2026,236.49
+avocado,Chennai Koyambedu,26-10-2026,237.61
+avocado,Chennai Koyambedu,27-10-2026,237.11
+avocado,Chennai Koyambedu,28-10-2026,234.21
+avocado,Chennai Koyambedu,29-10-2026,228.7
+avocado,Chennai Koyambedu,30-10-2026,236.07
+avocado,Chennai Koyambedu,31-10-2026,237.67
+avocado,Chennai Koyambedu,01-11-2026,239.97
+avocado,Chennai Koyambedu,02-11-2026,237.99
+avocado,Chennai Koyambedu,03-11-2026,247.8
+avocado,Chennai Koyambedu,04-11-2026,238.17
+avocado,Chennai Koyambedu,05-11-2026,245.51
+avocado,Chennai Koyambedu,06-11-2026,245.76
+avocado,Chennai Koyambedu,07-11-2026,238.42
+avocado,Chennai Koyambedu,08-11-2026,235.04
+avocado,Chennai Koyambedu,09-11-2026,235.16
+avocado,Chennai Koyambedu,10-11-2026,240.81
+avocado,Chennai Koyambedu,11-11-2026,243.85
+avocado,Chennai Koyambedu,12-11-2026,242.52
+avocado,Chennai Koyambedu,13-11-2026,246.86
+avocado,Chennai Koyambedu,14-11-2026,239.02
+avocado,Chennai Koyambedu,15-11-2026,233.84
+avocado,Chennai Koyambedu,16-11-2026,235
+avocado,Hyderabad Bowenpally,17-10-2026,213.67
+avocado,Hyderabad Bowenpally,18-10-2026,209.33
+avocado,Hyderabad Bowenpally,19-10-2026,214.82
+avocado,Hyderabad Bowenpally,20-10-2026,216.93
+avocado,Hyderabad Bowenpally,21-10-2026,214.12
+avocado,Hyderabad Bowenpally,22-10-2026,215.56
+avocado,Hyderabad Bowenpally,23-10-2026,213.03
+avocado,Hyderabad Bowenpally,24-10-2026,219.37
+avocado,Hyderabad Bowenpally,25-10-2026,229.54
+avocado,Hyderabad Bowenpally,26-10-2026,224.9
+avocado,Hyderabad Bowenpally,27-10-2026,226.8
+avocado,Hyderabad Bowenpally,28-10-2026,220.27
+avocado,Hyderabad Bowenpally,29-10-2026,225.93
+avocado,Hyderabad Bowenpally,30-10-2026,230.87
+avocado,Hyderabad Bowenpally,31-10-2026,239.7
+avocado,Hyderabad Bowenpally,01-11-2026,237.83
+avocado,Hyderabad Bowenpally,02-11-2026,238.05
+avocado,Hyderabad Bowenpally,03-11-2026,236.33
+avocado,Hyderabad Bowenpally,04-11-2026,241.13
+avocado,Hyderabad Bowenpally,05-11-2026,249.83
+avocado,Hyderabad Bowenpally,06-11-2026,250.5
+avocado,Hyderabad Bowenpally,07-11-2026,255.03
+avocado,Hyderabad Bowenpally,08-11-2026,254.88
+avocado,Hyderabad Bowenpally,09-11-2026,256.31
+avocado,Hyderabad Bowenpally,10-11-2026,258.77
+avocado,Hyderabad Bowenpally,11-11-2026,258.25
+avocado,Hyderabad Bowenpally,12-11-2026,255.13
+avocado,Hyderabad Bowenpally,13-11-2026,261.76
+avocado,Hyderabad Bowenpally,14-11-2026,263.66
+avocado,Hyderabad Bowenpally,15-11-2026,251.14
+avocado,Hyderabad Bowenpally,16-11-2026,257.05
+avocado,Bengaluru Yeshwanthpur,17-10-2026,218.15
+avocado,Bengaluru Yeshwanthpur,18-10-2026,221.02
+avocado,Bengaluru Yeshwanthpur,19-10-2026,219.64
+avocado,Bengaluru Yeshwanthpur,20-10-2026,220.09
+avocado,Bengaluru Yeshwanthpur,21-10-2026,219.4
+avocado,Bengaluru Yeshwanthpur,22-10-2026,224.39
+avocado,Bengaluru Yeshwanthpur,23-10-2026,216.45
+avocado,Bengaluru Yeshwanthpur,24-10-2026,209.48
+avocado,Bengaluru Yeshwanthpur,25-10-2026,207.11
+avocado,Bengaluru Yeshwanthpur,26-10-2026,203.66
+avocado,Bengaluru Yeshwanthpur,27-10-2026,202.76
+avocado,Bengaluru Yeshwanthpur,28-10-2026,200.29
+avocado,Bengaluru Yeshwanthpur,29-10-2026,204.56
+avocado,Bengaluru Yeshwanthpur,30-10-2026,198.6
+avocado,Bengaluru Yeshwanthpur,31-10-2026,192.3
+avocado,Bengaluru Yeshwanthpur,01-11-2026,186.39
+avocado,Bengaluru Yeshwanthpur,02-11-2026,186.7
+avocado,Bengaluru Yeshwanthpur,03-11-2026,188.47
+avocado,Bengaluru Yeshwanthpur,04-11-2026,191.81
+avocado,Bengaluru Yeshwanthpur,05-11-2026,192.83
+avocado,Bengaluru Yeshwanthpur,06-11-2026,194.42
+avocado,Bengaluru Yeshwanthpur,07-11-2026,192.08
+avocado,Bengaluru Yeshwanthpur,08-11-2026,195.98
+avocado,Bengaluru Yeshwanthpur,09-11-2026,192.43
+avocado,Bengaluru Yeshwanthpur,10-11-2026,193.1
+avocado,Bengaluru Yeshwanthpur,11-11-2026,194.66
+avocado,Bengaluru Yeshwanthpur,12-11-2026,195.44
+avocado,Bengaluru Yeshwanthpur,13-11-2026,189.91
+avocado,Bengaluru Yeshwanthpur,14-11-2026,193.06
+avocado,Bengaluru Yeshwanthpur,15-11-2026,191.98
+avocado,Bengaluru Yeshwanthpur,16-11-2026,193.1
+avocado,Mumbai Vashi,17-10-2026,220.82
+avocado,Mumbai Vashi,18-10-2026,221.61
+avocado,Mumbai Vashi,19-10-2026,222.14
+avocado,Mumbai Vashi,20-10-2026,221.97
+avocado,Mumbai Vashi,21-10-2026,218.9
+avocado,Mumbai Vashi,22-10-2026,215.04
+avocado,Mumbai Vashi,23-10-2026,210.5
+avocado,Mumbai Vashi,24-10-2026,212.09
+avocado,Mumbai Vashi,25-10-2026,205.68
+avocado,Mumbai Vashi,26-10-2026,201.2
+avocado,Mumbai Vashi,27-10-2026,203.76
+avocado,Mumbai Vashi,28-10-2026,198.97
+avocado,Mumbai Vashi,29-10-2026,198.04
+avocado,Mumbai Vashi,30-10-2026,194.72
+avocado,Mumbai Vashi,31-10-2026,199.98
+avocado,Mumbai Vashi,01-11-2026,197.44
+avocado,Mumbai Vashi,02-11-2026,200.14
+avocado,Mumbai Vashi,03-11-2026,190.43
+avocado,Mumbai Vashi,04-11-2026,190.27
+avocado,Mumbai Vashi,05-11-2026,190.75
+avocado,Mumbai Vashi,06-11-2026,193.67
+avocado,Mumbai Vashi,07-11-2026,193.27
+avocado,Mumbai Vashi,08-11-2026,198.22
+avocado,Mumbai Vashi,09-11-2026,194.41
+avocado,Mumbai Vashi,10-11-2026,198.24
+avocado,Mumbai Vashi,11-11-2026,192.15
+avocado,Mumbai Vashi,12-11-2026,189.18
+avocado,Mumbai Vashi,13-11-2026,188.47
+avocado,Mumbai Vashi,14-11-2026,185.63
+avocado,Mumbai Vashi,15-11-2026,183.82
+avocado,Mumbai Vashi,16-11-2026,186.3
+avocado,Pune Gultekdi,17-10-2026,202.77
+avocado,Pune Gultekdi,18-10-2026,207.32
+avocado,Pune Gultekdi,19-10-2026,214.01
+avocado,Pune Gultekdi,20-10-2026,213.29
+avocado,Pune Gultekdi,21-10-2026,215
+avocado,Pune Gultekdi,22-10-2026,212.57
+avocado,Pune Gultekdi,23-10-2026,205.11
+avocado,Pune Gultekdi,24-10-2026,203.73
+avocado,Pune Gultekdi,25-10-2026,201.46
+avocado,Pune Gultekdi,26-10-2026,205.75
+avocado,Pune Gultekdi,27-10-2026,201.62
+avocado,Pune Gultekdi,28-10-2026,199.22
+avocado,Pune Gultekdi,29-10-2026,197.54
+avocado,Pune Gultekdi,30-10-2026,194.44
+avocado,Pune Gultekdi,31-10-2026,197.29
+avocado,Pune Gultekdi,01-11-2026,189.52
+avocado,Pune Gultekdi,02-11-2026,182.31
+avocado,Pune Gultekdi,03-11-2026,184.41
+avocado,Pune Gultekdi,04-11-2026,190.07
+avocado,Pune Gultekdi,05-11-2026,184.17
+avocado,Pune Gultekdi,06-11-2026,181.85
+avocado,Pune Gultekdi,07-11-2026,182.12
+avocado,Pune Gultekdi,08-11-2026,181.61
+avocado,Pune Gultekdi,09-11-2026,182.74
+avocado,Pune Gultekdi,10-11-2026,179.46
+avocado,Pune Gultekdi,11-11-2026,179.22
+avocado,Pune Gultekdi,12-11-2026,186.31
+avocado,Pune Gultekdi,13-11-2026,186.57
+avocado,Pune Gultekdi,14-11-2026,190.99
+avocado,Pune Gultekdi,15-11-2026,189.93
+avocado,Pune Gultekdi,16-11-2026,191.31
+avocado,Ahmedabad,17-10-2026,187.95
+avocado,Ahmedabad,18-10-2026,187.82
+avocado,Ahmedabad,19-10-2026,189.61
+avocado,Ahmedabad,20-10-2026,194.19
+avocado,Ahmedabad,21-10-2026,187.4
+avocado,Ahmedabad,22-10-2026,192.03
+avocado,Ahmedabad,23-10-2026,188.72
+avocado,Ahmedabad,24-10-2026,192.94
+avocado,Ahmedabad,25-10-2026,187.47
+avocado,Ahmedabad,26-10-2026,186.24
+avocado,Ahmedabad,27-10-2026,186.99
+avocado,Ahmedabad,28-10-2026,185.91
+avocado,Ahmedabad,29-10-2026,181.25
+avocado,Ahmedabad,30-10-2026,177.88
+avocado,Ahmedabad,31-10-2026,175.67
+avocado,Ahmedabad,01-11-2026,177.47
+avocado,Ahmedabad,02-11-2026,180.83
+avocado,Ahmedabad,03-11-2026,186.67
+avocado,Ahmedabad,04-11-2026,191.37
+avocado,Ahmedabad,05-11-2026,190.36
+avocado,Ahmedabad,06-11-2026,184.3
+avocado,Ahmedabad,07-11-2026,179.61
+avocado,Ahmedabad,08-11-2026,175.18
+avocado,Ahmedabad,09-11-2026,178.57
+avocado,Ahmedabad,10-11-2026,174.81
+avocado,Ahmedabad,11-11-2026,175.31
+avocado,Ahmedabad,12-11-2026,176.59
+avocado,Ahmedabad,13-11-2026,177.29
+avocado,Ahmedabad,14-11-2026,170.46
+avocado,Ahmedabad,15-11-2026,169.77
+avocado,Ahmedabad,16-11-2026,170.7
+mango,Delhi Azadpur,17-10-2026,96.35
+mango,Delhi Azadpur,18-10-2026,97.51
+mango,Delhi Azadpur,19-10-2026,96.16
+mango,Delhi Azadpur,20-10-2026,95.61
+mango,Delhi Azadpur,21-10-2026,98.18
+mango,Delhi Azadpur,22-10-2026,99.56
+mango,Delhi Azadpur,23-10-2026,101.19
+mango,Delhi Azadpur,24-10-2026,101.4
+mango,Delhi Azadpur,25-10-2026,101.97
+mango,Delhi Azadpur,26-10-2026,100.44
+mango,Delhi Azadpur,27-10-2026,103.17
+mango,Delhi Azadpur,28-10-2026,102.55
+mango,Delhi Azadpur,29-10-2026,99.34
+mango,Delhi Azadpur,30-10-2026,99.69
+mango,Delhi Azadpur,31-10-2026,101.11
+mango,Delhi Azadpur,01-11-2026,98.53
+mango,Delhi Azadpur,02-11-2026,99.14
+mango,Delhi Azadpur,03-11-2026,99.44
+mango,Delhi Azadpur,04-11-2026,97.84
+mango,Delhi Azadpur,05-11-2026,98.61
+mango,Delhi Azadpur,06-11-2026,100.48
+mango,Delhi Azadpur,07-11-2026,99.9
+mango,Delhi Azadpur,08-11-2026,100.17
+mango,Delhi Azadpur,09-11-2026,98.78
+mango,Delhi Azadpur,10-11-2026,97.92
+mango,Delhi Azadpur,11-11-2026,94.66
+mango,Delhi Azadpur,12-11-2026,93.99
+mango,Delhi Azadpur,13-11-2026,90.07
+mango,Delhi Azadpur,14-11-2026,90
+mango,Delhi Azadpur,15-11-2026,90.69
+mango,Delhi Azadpur,16-11-2026,91.3
+mango,Kolkata,17-10-2026,88.38
+mango,Kolkata,18-10-2026,88.56
+mango,Kolkata,19-10-2026,88.99
+mango,Kolkata,20-10-2026,89.02
+mango,Kolkata,21-10-2026,91.8
+mango,Kolkata,22-10-2026,93.81
+mango,Kolkata,23-10-2026,94.18
+mango,Kolkata,24-10-2026,92.27
+mango,Kolkata,25-10-2026,91.92
+mango,Kolkata,26-10-2026,91.31
+mango,Kolkata,27-10-2026,91.47
+mango,Kolkata,28-10-2026,88.27
+mango,Kolkata,29-10-2026,88.95
+mango,Kolkata,30-10-2026,89.08
+mango,Kolkata,31-10-2026,90.32
+mango,Kolkata,01-11-2026,87.12
+mango,Kolkata,02-11-2026,83.54
+mango,Kolkata,03-11-2026,84.49
+mango,Kolkata,04-11-2026,81.64
+mango,Kolkata,05-11-2026,79.53
+mango,Kolkata,06-11-2026,80.23
+mango,Kolkata,07-11-2026,78.58
+mango,Kolkata,08-11-2026,78.68
+mango,Kolkata,09-11-2026,79.12
+mango,Kolkata,10-11-2026,79.26
+mango,Kolkata,11-11-2026,81.48
+mango,Kolkata,12-11-2026,81.03
+mango,Kolkata,13-11-2026,83.57
+mango,Kolkata,14-11-2026,81.96
+mango,Kolkata,15-11-2026,81.43
+mango,Kolkata,16-11-2026,81.53
+mango,Chennai Koyambedu,17-10-2026,86.38
+mango,Chennai Koyambedu,18-10-2026,85.3
+mango,Chennai Koyambedu,19-10-2026,86.4
+mango,Chennai Koyambedu,20-10-2026,86.86
+mango,Chennai Koyambedu,21-10-2026,85.07
+mango,Chennai Koyambedu,22-10-2026,86.93
+mango,Chennai Koyambedu,23-10-2026,87.27
+mango,Chennai Koyambedu,24-10-2026,85.6
+mango,Chennai Koyambedu,25-10-2026,87.03
+mango,Chennai Koyambedu,26-10-2026,85.41
+mango,Chennai Koyambedu,27-10-2026,85.31
+mango,Chennai Koyambedu,28-10-2026,85.41
+mango,Chennai Koyambedu,29-10-2026,87.95
+mango,Chennai Koyambedu,30-10-2026,86.3
+mango,Chennai Koyambedu,31-10-2026,86.48
+mango,Chennai Koyambedu,01-11-2026,86.02
+mango,Chennai Koyambedu,02-11-2026,82.78
+mango,Chennai Koyambedu,03-11-2026,82.79
+mango,Chennai Koyambedu,04-11-2026,85.79
+mango,Chennai Koyambedu,05-11-2026,88.06
+mango,Chennai Koyambedu,06-11-2026,88.06
+mango,Chennai Koyambedu,07-11-2026,87.12
+mango,Chennai Koyambedu,08-11-2026,89.14
+mango,Chennai Koyambedu,09-11-2026,90.99
+mango,Chennai Koyambedu,10-11-2026,89.81
+mango,Chennai Koyambedu,11-11-2026,89.34
+mango,Chennai Koyambedu,12-11-2026,91.79
+mango,Chennai Koyambedu,13-11-2026,91.45
+mango,Chennai Koyambedu,14-11-2026,89.98
+mango,Chennai Koyambedu,15-11-2026,93.13
+mango,Chennai Koyambedu,16-11-2026,97.24
+mango,Hyderabad Bowenpally,17-10-2026,84.85
+mango,Hyderabad Bowenpally,18-10-2026,86.27
+mango,Hyderabad Bowenpally,19-10-2026,83.73
+mango,Hyderabad Bowenpally,20-10-2026,86.6
+mango,Hyderabad Bowenpally,21-10-2026,84.24
+mango,Hyderabad Bowenpally,22-10-2026,84.02
+mango,Hyderabad Bowenpally,23-10-2026,81.86
+mango,Hyderabad Bowenpally,24-10-2026,82.51
+mango,Hyderabad Bowenpally,25-10-2026,79.94
+mango,Hyderabad Bowenpally,26-10-2026,82.07
+mango,Hyderabad Bowenpally,27-10-2026,83.92
+mango,Hyderabad Bowenpally,28-10-2026,85.47
+mango,Hyderabad Bowenpally,29-10-2026,84.55
+mango,Hyderabad Bowenpally,30-10-2026,82.64
+mango,Hyderabad Bowenpally,31-10-2026,82.42
+mango,Hyderabad Bowenpally,01-11-2026,85.32
+mango,Hyderabad Bowenpally,02-11-2026,86.61
+mango,Hyderabad Bowenpally,03-11-2026,88.45
+mango,Hyderabad Bowenpally,04-11-2026,90
+mango,Hyderabad Bowenpally,05-11-2026,92.8
+mango,Hyderabad Bowenpally,06-11-2026,94.37
+mango,Hyderabad Bowenpally,07-11-2026,99.86
+mango,Hyderabad Bowenpally,08-11-2026,97.57
+mango,Hyderabad Bowenpally,09-11-2026,97.72
+mango,Hyderabad Bowenpally,10-11-2026,98.94
+mango,Hyderabad Bowenpally,11-11-2026,99.61
+mango,Hyderabad Bowenpally,12-11-2026,100.54
+mango,Hyderabad Bowenpally,13-11-2026,102.04
+mango,Hyderabad Bowenpally,14-11-2026,103.33
+mango,Hyderabad Bowenpally,15-11-2026,103.99
+mango,Hyderabad Bowenpally,16-11-2026,99.45
+mango,Bengaluru Yeshwanthpur,17-10-2026,89.92
+mango,Bengaluru Yeshwanthpur,18-10-2026,87.82
+mango,Bengaluru Yeshwanthpur,19-10-2026,86.09
+mango,Bengaluru Yeshwanthpur,20-10-2026,86.01
+mango,Bengaluru Yeshwanthpur,21-10-2026,85.13
+mango,Bengaluru Yeshwanthpur,22-10-2026,85.52
+mango,Bengaluru Yeshwanthpur,23-10-2026,88.74
+mango,Bengaluru Yeshwanthpur,24-10-2026,90.13
+mango,Bengaluru Yeshwanthpur,25-10-2026,93.26
+mango,Bengaluru Yeshwanthpur,26-10-2026,93.66
+mango,Bengaluru Yeshwanthpur,27-10-2026,94.21
+mango,Bengaluru Yeshwanthpur,28-10-2026,92.88
+mango,Bengaluru Yeshwanthpur,29-10-2026,91.8
+mango,Bengaluru Yeshwanthpur,30-10-2026,94.99
+mango,Bengaluru Yeshwanthpur,31-10-2026,93.69
+mango,Bengaluru Yeshwanthpur,01-11-2026,94.75
+mango,Bengaluru Yeshwanthpur,02-11-2026,97.67
+mango,Bengaluru Yeshwanthpur,03-11-2026,97.13
+mango,Bengaluru Yeshwanthpur,04-11-2026,98.14
+mango,Bengaluru Yeshwanthpur,05-11-2026,97.61
+mango,Bengaluru Yeshwanthpur,06-11-2026,96.81
+mango,Bengaluru Yeshwanthpur,07-11-2026,93.16
+mango,Bengaluru Yeshwanthpur,08-11-2026,91.45
+mango,Bengaluru Yeshwanthpur,09-11-2026,88.67
+mango,Bengaluru Yeshwanthpur,10-11-2026,91.57
+mango,Bengaluru Yeshwanthpur,11-11-2026,89.83
+mango,Bengaluru Yeshwanthpur,12-11-2026,89.64
+mango,Bengaluru Yeshwanthpur,13-11-2026,91.82
+mango,Bengaluru Yeshwanthpur,14-11-2026,90.81
+mango,Bengaluru Yeshwanthpur,15-11-2026,92.59
+mango,Bengaluru Yeshwanthpur,16-11-2026,90.6
+mango,Mumbai Vashi,17-10-2026,92.42
+mango,Mumbai Vashi,18-10-2026,89.92
+mango,Mumbai Vashi,19-10-2026,94.43
+mango,Mumbai Vashi,20-10-2026,94.93
+mango,Mumbai Vashi,21-10-2026,95.85
+mango,Mumbai Vashi,22-10-2026,95.82
+mango,Mumbai Vashi,23-10-2026,99.09
+mango,Mumbai Vashi,24-10-2026,97.79
+mango,Mumbai Vashi,25-10-2026,98.51
+mango,Mumbai Vashi,26-10-2026,97.51
+mango,Mumbai Vashi,27-10-2026,98.5
+mango,Mumbai Vashi,28-10-2026,97
+mango,Mumbai Vashi,29-10-2026,94.7
+mango,Mumbai Vashi,30-10-2026,94.22
+mango,Mumbai Vashi,31-10-2026,96.2
+mango,Mumbai Vashi,01-11-2026,99.68
+mango,Mumbai Vashi,02-11-2026,98.33
+mango,Mumbai Vashi,03-11-2026,99.43
+mango,Mumbai Vashi,04-11-2026,99.16
+mango,Mumbai Vashi,05-11-2026,100.29
+mango,Mumbai Vashi,06-11-2026,101.97
+mango,Mumbai Vashi,07-11-2026,100.93
+mango,Mumbai Vashi,08-11-2026,98.34
+mango,Mumbai Vashi,09-11-2026,98.12
+mango,Mumbai Vashi,10-11-2026,97.87
+mango,Mumbai Vashi,11-11-2026,99.74
+mango,Mumbai Vashi,12-11-2026,101.24
+mango,Mumbai Vashi,13-11-2026,97.61
+mango,Mumbai Vashi,14-11-2026,98.76
+mango,Mumbai Vashi,15-11-2026,99.25
+mango,Mumbai Vashi,16-11-2026,97.09
+mango,Pune Gultekdi,17-10-2026,78.83
+mango,Pune Gultekdi,18-10-2026,81.9
+mango,Pune Gultekdi,19-10-2026,83.08
+mango,Pune Gultekdi,20-10-2026,85.55
+mango,Pune Gultekdi,21-10-2026,83.66
+mango,Pune Gultekdi,22-10-2026,83
+mango,Pune Gultekdi,23-10-2026,83.2
+mango,Pune Gultekdi,24-10-2026,83.76
+mango,Pune Gultekdi,25-10-2026,86.91
+mango,Pune Gultekdi,26-10-2026,85.14
+mango,Pune Gultekdi,27-10-2026,84.2
+mango,Pune Gultekdi,28-10-2026,83.41
+mango,Pune Gultekdi,29-10-2026,82.23
+mango,Pune Gultekdi,30-10-2026,78.77
+mango,Pune Gultekdi,31-10-2026,76.02
+mango,Pune Gultekdi,01-11-2026,77.54
+mango,Pune Gultekdi,02-11-2026,77.62
+mango,Pune Gultekdi,03-11-2026,75.96
+mango,Pune Gultekdi,04-11-2026,75.61
+mango,Pune Gultekdi,05-11-2026,75.45
+mango,Pune Gultekdi,06-11-2026,76.93
+mango,Pune Gultekdi,07-11-2026,79.2
+mango,Pune Gultekdi,08-11-2026,77.89
+mango,Pune Gultekdi,09-11-2026,76.84
+mango,Pune Gultekdi,10-11-2026,75.11
+mango,Pune Gultekdi,11-11-2026,72.76
+mango,Pune Gultekdi,12-11-2026,70.17
+mango,Pune Gultekdi,13-11-2026,68.4
+mango,Pune Gultekdi,14-11-2026,67.71
+mango,Pune Gultekdi,15-11-2026,66.92
+mango,Pune Gultekdi,16-11-2026,66.77
+mango,Ahmedabad,17-10-2026,77.62
+mango,Ahmedabad,18-10-2026,75.13
+mango,Ahmedabad,19-10-2026,76.55
+mango,Ahmedabad,20-10-2026,74.02
+mango,Ahmedabad,21-10-2026,72.35
+mango,Ahmedabad,22-10-2026,76.18
+mango,Ahmedabad,23-10-2026,75.86
+mango,Ahmedabad,24-10-2026,73.95
+mango,Ahmedabad,25-10-2026,71.76
+mango,Ahmedabad,26-10-2026,71.42
+mango,Ahmedabad,27-10-2026,68.31
+mango,Ahmedabad,28-10-2026,67.46
+mango,Ahmedabad,29-10-2026,68.71
+mango,Ahmedabad,30-10-2026,69.68
+mango,Ahmedabad,31-10-2026,69.34
+mango,Ahmedabad,01-11-2026,70.12
+mango,Ahmedabad,02-11-2026,68.3
+mango,Ahmedabad,03-11-2026,68.99
+mango,Ahmedabad,04-11-2026,69.58
+mango,Ahmedabad,05-11-2026,70.4
+mango,Ahmedabad,06-11-2026,71.84
+mango,Ahmedabad,07-11-2026,70.06
+mango,Ahmedabad,08-11-2026,69.08
+mango,Ahmedabad,09-11-2026,70.46
+mango,Ahmedabad,10-11-2026,73.21
+mango,Ahmedabad,11-11-2026,72.21
+mango,Ahmedabad,12-11-2026,72.44
+mango,Ahmedabad,13-11-2026,74.75
+mango,Ahmedabad,14-11-2026,73.76
+mango,Ahmedabad,15-11-2026,74.63
+mango,Ahmedabad,16-11-2026,72.23
+banana,Delhi Azadpur,17-10-2026,47.25
+banana,Delhi Azadpur,18-10-2026,47.62
+banana,Delhi Azadpur,19-10-2026,47.66
+banana,Delhi Azadpur,20-10-2026,46.48
+banana,Delhi Azadpur,21-10-2026,46.22
+banana,Delhi Azadpur,22-10-2026,47.27
+banana,Delhi Azadpur,23-10-2026,46.84
+banana,Delhi Azadpur,24-10-2026,48.02
+banana,Delhi Azadpur,25-10-2026,48.84
+banana,Delhi Azadpur,26-10-2026,46.22
+banana,Delhi Azadpur,27-10-2026,45.9
+banana,Delhi Azadpur,28-10-2026,45.13
+banana,Delhi Azadpur,29-10-2026,45.08
+banana,Delhi Azadpur,30-10-2026,45.39
+banana,Delhi Azadpur,31-10-2026,45.56
+banana,Delhi Azadpur,01-11-2026,45.42
+banana,Delhi Azadpur,02-11-2026,46.7
+banana,Delhi Azadpur,03-11-2026,46.94
+banana,Delhi Azadpur,04-11-2026,47.34
+banana,Delhi Azadpur,05-11-2026,46.78
+banana,Delhi Azadpur,06-11-2026,45.42
+banana,Delhi Azadpur,07-11-2026,46.19
+banana,Delhi Azadpur,08-11-2026,47.12
+banana,Delhi Azadpur,09-11-2026,46.36
+banana,Delhi Azadpur,10-11-2026,45.06
+banana,Delhi Azadpur,11-11-2026,46.61
+banana,Delhi Azadpur,12-11-2026,45.49
+banana,Delhi Azadpur,13-11-2026,45.11
+banana,Delhi Azadpur,14-11-2026,45.73
+banana,Delhi Azadpur,15-11-2026,45.67
+banana,Delhi Azadpur,16-11-2026,46.44
+banana,Kolkata,17-10-2026,43.91
+banana,Kolkata,18-10-2026,45.26
+banana,Kolkata,19-10-2026,44.87
+banana,Kolkata,20-10-2026,45.05
+banana,Kolkata,21-10-2026,45.92
+banana,Kolkata,22-10-2026,45.38
+banana,Kolkata,23-10-2026,45.33
+banana,Kolkata,24-10-2026,46.36
+banana,Kolkata,25-10-2026,47.52
+banana,Kolkata,26-10-2026,46.26
+banana,Kolkata,27-10-2026,45.39
+banana,Kolkata,28-10-2026,44.64
+banana,Kolkata,29-10-2026,45.07
+banana,Kolkata,30-10-2026,44.21
+banana,Kolkata,31-10-2026,44.29
+banana,Kolkata,01-11-2026,43.3
+banana,Kolkata,02-11-2026,42.55
+banana,Kolkata,03-11-2026,41.38
+banana,Kolkata,04-11-2026,39.46
+banana,Kolkata,05-11-2026,40.96
+banana,Kolkata,06-11-2026,40.75
+banana,Kolkata,07-11-2026,40.72
+banana,Kolkata,08-11-2026,40.7
+banana,Kolkata,09-11-2026,41.14
+banana,Kolkata,10-11-2026,42.57
+banana,Kolkata,11-11-2026,41.74
+banana,Kolkata,12-11-2026,41.91
+banana,Kolkata,13-11-2026,42
+banana,Kolkata,14-11-2026,41.67
+banana,Kolkata,15-11-2026,41.06
+banana,Kolkata,16-11-2026,41.74
+banana,Chennai Koyambedu,17-10-2026,44.4
+banana,Chennai Koyambedu,18-10-2026,44.32
+banana,Chennai Koyambedu,19-10-2026,44.18
+banana,Chennai Koyambedu,20-10-2026,44.53
+banana,Chennai Koyambedu,21-10-2026,45.28
+banana,Chennai Koyambedu,22-10-2026,44.89
+banana,Chennai Koyambedu,23-10-2026,44.95
+banana,Chennai Koyambedu,24-10-2026,44.53
+banana,Chennai Koyambedu,25-10-2026,44.15
+banana,Chennai Koyambedu,26-10-2026,44.5
+banana,Chennai Koyambedu,27-10-2026,45.1
+banana,Chennai Koyambedu,28-10-2026,45.39
+banana,Chennai Koyambedu,29-10-2026,45.22
+banana,Chennai Koyambedu,30-10-2026,46.35
+banana,Chennai Koyambedu,31-10-2026,47.23
+banana,Chennai Koyambedu,01-11-2026,48
+banana,Chennai Koyambedu,02-11-2026,49.53
+banana,Chennai Koyambedu,03-11-2026,47.96
+banana,Chennai Koyambedu,04-11-2026,47.3
+banana,Chennai Koyambedu,05-11-2026,48.36
+banana,Chennai Koyambedu,06-11-2026,48.96
+banana,Chennai Koyambedu,07-11-2026,49.21
+banana,Chennai Koyambedu,08-11-2026,47.57
+banana,Chennai Koyambedu,09-11-2026,46.42
+banana,Chennai Koyambedu,10-11-2026,45.83
+banana,Chennai Koyambedu,11-11-2026,46.5
+banana,Chennai Koyambedu,12-11-2026,45.07
+banana,Chennai Koyambedu,13-11-2026,45.63
+banana,Chennai Koyambedu,14-11-2026,45.66
+banana,Chennai Koyambedu,15-11-2026,44.12
+banana,Chennai Koyambedu,16-11-2026,45.27
+banana,Hyderabad Bowenpally,17-10-2026,43.04
+banana,Hyderabad Bowenpally,18-10-2026,44.2
+banana,Hyderabad Bowenpally,19-10-2026,44.7
+banana,Hyderabad Bowenpally,20-10-2026,43.37
+banana,Hyderabad Bowenpally,21-10-2026,42.38
+banana,Hyderabad Bowenpally,22-10-2026,43.51
+banana,Hyderabad Bowenpally,23-10-2026,43.98
+banana,Hyderabad Bowenpally,24-10-2026,44.43
+banana,Hyderabad Bowenpally,25-10-2026,43.84
+banana,Hyderabad Bowenpally,26-10-2026,44.32
+banana,Hyderabad Bowenpally,27-10-2026,44.37
+banana,Hyderabad Bowenpally,28-10-2026,43.89
+banana,Hyderabad Bowenpally,29-10-2026,43.92
+banana,Hyderabad Bowenpally,30-10-2026,44.77
+banana,Hyderabad Bowenpally,31-10-2026,44.85
+banana,Hyderabad Bowenpally,01-11-2026,44.26
+banana,Hyderabad Bowenpally,02-11-2026,44.7
+banana,Hyderabad Bowenpally,03-11-2026,43.83
+banana,Hyderabad Bowenpally,04-11-2026,44.12
+banana,Hyderabad Bowenpally,05-11-2026,44.17
+banana,Hyderabad Bowenpally,06-11-2026,44.27
+banana,Hyderabad Bowenpally,07-11-2026,43.91
+banana,Hyderabad Bowenpally,08-11-2026,43.51
+banana,Hyderabad Bowenpally,09-11-2026,44.84
+banana,Hyderabad Bowenpally,10-11-2026,43.25
+banana,Hyderabad Bowenpally,11-11-2026,44.34
+banana,Hyderabad Bowenpally,12-11-2026,43.17
+banana,Hyderabad Bowenpally,13-11-2026,42.64
+banana,Hyderabad Bowenpally,14-11-2026,42.94
+banana,Hyderabad Bowenpally,15-11-2026,42.71
+banana,Hyderabad Bowenpally,16-11-2026,42.42
+banana,Bengaluru Yeshwanthpur,17-10-2026,43.23
+banana,Bengaluru Yeshwanthpur,18-10-2026,44.66
+banana,Bengaluru Yeshwanthpur,19-10-2026,44.04
+banana,Bengaluru Yeshwanthpur,20-10-2026,44.2
+banana,Bengaluru Yeshwanthpur,21-10-2026,42.75
+banana,Bengaluru Yeshwanthpur,22-10-2026,41.78
+banana,Bengaluru Yeshwanthpur,23-10-2026,42.47
+banana,Bengaluru Yeshwanthpur,24-10-2026,41.81
+banana,Bengaluru Yeshwanthpur,25-10-2026,42.16
+banana,Bengaluru Yeshwanthpur,26-10-2026,42.35
+banana,Bengaluru Yeshwanthpur,27-10-2026,43.65
+banana,Bengaluru Yeshwanthpur,28-10-2026,41.82
+banana,Bengaluru Yeshwanthpur,29-10-2026,40.21
+banana,Bengaluru Yeshwanthpur,30-10-2026,40.92
+banana,Bengaluru Yeshwanthpur,31-10-2026,41.3
+banana,Bengaluru Yeshwanthpur,01-11-2026,41.74
+banana,Bengaluru Yeshwanthpur,02-11-2026,42.08
+banana,Bengaluru Yeshwanthpur,03-11-2026,40.87
+banana,Bengaluru Yeshwanthpur,04-11-2026,41.29
+banana,Bengaluru Yeshwanthpur,05-11-2026,40.02
+banana,Bengaluru Yeshwanthpur,06-11-2026,40.51
+banana,Bengaluru Yeshwanthpur,07-11-2026,40.09
+banana,Bengaluru Yeshwanthpur,08-11-2026,40.5
+banana,Bengaluru Yeshwanthpur,09-11-2026,41.75
+banana,Bengaluru Yeshwanthpur,10-11-2026,42.43
+banana,Bengaluru Yeshwanthpur,11-11-2026,41.25
+banana,Bengaluru Yeshwanthpur,12-11-2026,41.45
+banana,Bengaluru Yeshwanthpur,13-11-2026,41.24
+banana,Bengaluru Yeshwanthpur,14-11-2026,39.94
+banana,Bengaluru Yeshwanthpur,15-11-2026,39.96
+banana,Bengaluru Yeshwanthpur,16-11-2026,40.63
+banana,Mumbai Vashi,17-10-2026,45.63
+banana,Mumbai Vashi,18-10-2026,44.98
+banana,Mumbai Vashi,19-10-2026,44.54
+banana,Mumbai Vashi,20-10-2026,44.44
+banana,Mumbai Vashi,21-10-2026,44.7
+banana,Mumbai Vashi,22-10-2026,43.42
+banana,Mumbai Vashi,23-10-2026,43.17
+banana,Mumbai Vashi,24-10-2026,43.1
+banana,Mumbai Vashi,25-10-2026,44.2
+banana,Mumbai Vashi,26-10-2026,43.31
+banana,Mumbai Vashi,27-10-2026,42.81
+banana,Mumbai Vashi,28-10-2026,42.02
+banana,Mumbai Vashi,29-10-2026,43.31
+banana,Mumbai Vashi,30-10-2026,44.25
+banana,Mumbai Vashi,31-10-2026,43.93
+banana,Mumbai Vashi,01-11-2026,44.5
+banana,Mumbai Vashi,02-11-2026,43.34
+banana,Mumbai Vashi,03-11-2026,42.75
+banana,Mumbai Vashi,04-11-2026,43.76
+banana,Mumbai Vashi,05-11-2026,44.71
+banana,Mumbai Vashi,06-11-2026,44.11
+banana,Mumbai Vashi,07-11-2026,43.65
+banana,Mumbai Vashi,08-11-2026,43.35
+banana,Mumbai Vashi,09-11-2026,43.99
+banana,Mumbai Vashi,10-11-2026,43.67
+banana,Mumbai Vashi,11-11-2026,43.26
+banana,Mumbai Vashi,12-11-2026,43.86
+banana,Mumbai Vashi,13-11-2026,43.57
+banana,Mumbai Vashi,14-11-2026,41.54
+banana,Mumbai Vashi,15-11-2026,41.64
+banana,Mumbai Vashi,16-11-2026,41.78
+banana,Pune Gultekdi,17-10-2026,40.86
+banana,Pune Gultekdi,18-10-2026,41.62
+banana,Pune Gultekdi,19-10-2026,41.3
+banana,Pune Gultekdi,20-10-2026,41.03
+banana,Pune Gultekdi,21-10-2026,41.14
+banana,Pune Gultekdi,22-10-2026,39.58
+banana,Pune Gultekdi,23-10-2026,38.92
+banana,Pune Gultekdi,24-10-2026,39.15
+banana,Pune Gultekdi,25-10-2026,39.05
+banana,Pune Gultekdi,26-10-2026,39.58
+banana,Pune Gultekdi,27-10-2026,39.5
+banana,Pune Gultekdi,28-10-2026,38.36
+banana,Pune Gultekdi,29-10-2026,38.21
+banana,Pune Gultekdi,30-10-2026,37.4
+banana,Pune Gultekdi,31-10-2026,36.87
+banana,Pune Gultekdi,01-11-2026,36.37
+banana,Pune Gultekdi,02-11-2026,38.19
+banana,Pune Gultekdi,03-11-2026,37.34
+banana,Pune Gultekdi,04-11-2026,36.92
+banana,Pune Gultekdi,05-11-2026,37.11
+banana,Pune Gultekdi,06-11-2026,37.23
+banana,Pune Gultekdi,07-11-2026,36.7
+banana,Pune Gultekdi,08-11-2026,36.41
+banana,Pune Gultekdi,09-11-2026,36.87
+banana,Pune Gultekdi,10-11-2026,38.14
+banana,Pune Gultekdi,11-11-2026,37.52
+banana,Pune Gultekdi,12-11-2026,38.61
+banana,Pune Gultekdi,13-11-2026,38.85
+banana,Pune Gultekdi,14-11-2026,39.74
+banana,Pune Gultekdi,15-11-2026,39.03
+banana,Pune Gultekdi,16-11-2026,38.89
+banana,Ahmedabad,17-10-2026,37.33
+banana,Ahmedabad,18-10-2026,36.11
+banana,Ahmedabad,19-10-2026,35.3
+banana,Ahmedabad,20-10-2026,35.71
+banana,Ahmedabad,21-10-2026,36.64
+banana,Ahmedabad,22-10-2026,36.24
+banana,Ahmedabad,23-10-2026,36.53
+banana,Ahmedabad,24-10-2026,36.99
+banana,Ahmedabad,25-10-2026,36.28
+banana,Ahmedabad,26-10-2026,36.27
+banana,Ahmedabad,27-10-2026,35.93
+banana,Ahmedabad,28-10-2026,36.1
+banana,Ahmedabad,29-10-2026,35.71
+banana,Ahmedabad,30-10-2026,34.98
+banana,Ahmedabad,31-10-2026,35.83
+banana,Ahmedabad,01-11-2026,35.64
+banana,Ahmedabad,02-11-2026,35.66
+banana,Ahmedabad,03-11-2026,35.71
+banana,Ahmedabad,04-11-2026,36.03
+banana,Ahmedabad,05-11-2026,36.13
+banana,Ahmedabad,06-11-2026,35.89
+banana,Ahmedabad,07-11-2026,35.4
+banana,Ahmedabad,08-11-2026,36.06
+banana,Ahmedabad,09-11-2026,35.72
+banana,Ahmedabad,10-11-2026,35.13
+banana,Ahmedabad,11-11-2026,35.25
+banana,Ahmedabad,12-11-2026,35.62
+banana,Ahmedabad,13-11-2026,35.37
+banana,Ahmedabad,14-11-2026,36.25
+banana,Ahmedabad,15-11-2026,36.54
+banana,Ahmedabad,16-11-2026,37.13
+tomato,Delhi Azadpur,17-10-2026,35.49
+tomato,Delhi Azadpur,18-10-2026,36.28
+tomato,Delhi Azadpur,19-10-2026,35.94
+tomato,Delhi Azadpur,20-10-2026,36.78
+tomato,Delhi Azadpur,21-10-2026,37.41
+tomato,Delhi Azadpur,22-10-2026,36.85
+tomato,Delhi Azadpur,23-10-2026,36.58
+tomato,Delhi Azadpur,24-10-2026,36.66
+tomato,Delhi Azadpur,25-10-2026,36.16
+tomato,Delhi Azadpur,26-10-2026,37.14
+tomato,Delhi Azadpur,27-10-2026,36.61
+tomato,Delhi Azadpur,28-10-2026,36.18
+tomato,Delhi Azadpur,29-10-2026,35.89
+tomato,Delhi Azadpur,30-10-2026,35.08
+tomato,Delhi Azadpur,31-10-2026,33.74
+tomato,Delhi Azadpur,01-11-2026,32.99
+tomato,Delhi Azadpur,02-11-2026,33.98
+tomato,Delhi Azadpur,03-11-2026,33.37
+tomato,Delhi Azadpur,04-11-2026,33.11
+tomato,Delhi Azadpur,05-11-2026,34.5
+tomato,Delhi Azadpur,06-11-2026,34.57
+tomato,Delhi Azadpur,07-11-2026,34.15
+tomato,Delhi Azadpur,08-11-2026,33.15
+tomato,Delhi Azadpur,09-11-2026,33.58
+tomato,Delhi Azadpur,10-11-2026,32.66
+tomato,Delhi Azadpur,11-11-2026,32.76
+tomato,Delhi Azadpur,12-11-2026,32.85
+tomato,Delhi Azadpur,13-11-2026,32.43
+tomato,Delhi Azadpur,14-11-2026,32.66
+tomato,Delhi Azadpur,15-11-2026,31.39
+tomato,Delhi Azadpur,16-11-2026,30.42
+tomato,Kolkata,17-10-2026,33.48
+tomato,Kolkata,18-10-2026,34.38
+tomato,Kolkata,19-10-2026,34.38
+tomato,Kolkata,20-10-2026,34.93
+tomato,Kolkata,21-10-2026,35.62
+tomato,Kolkata,22-10-2026,35.06
+tomato,Kolkata,23-10-2026,34.19
+tomato,Kolkata,24-10-2026,33.93
+tomato,Kolkata,25-10-2026,33.1
+tomato,Kolkata,26-10-2026,33.69
+tomato,Kolkata,27-10-2026,34.54
+tomato,Kolkata,28-10-2026,34.22
+tomato,Kolkata,29-10-2026,34.26
+tomato,Kolkata,30-10-2026,34.43
+tomato,Kolkata,31-10-2026,35.42
+tomato,Kolkata,01-11-2026,35.48
+tomato,Kolkata,02-11-2026,35.26
+tomato,Kolkata,03-11-2026,34.08
+tomato,Kolkata,04-11-2026,33.35
+tomato,Kolkata,05-11-2026,33.35
+tomato,Kolkata,06-11-2026,32.73
+tomato,Kolkata,07-11-2026,33.02
+tomato,Kolkata,08-11-2026,32.45
+tomato,Kolkata,09-11-2026,31.63
+tomato,Kolkata,10-11-2026,31.1
+tomato,Kolkata,11-11-2026,29.77
+tomato,Kolkata,12-11-2026,28.2
+tomato,Kolkata,13-11-2026,26.8
+tomato,Kolkata,14-11-2026,26.4
+tomato,Kolkata,15-11-2026,26.35
+tomato,Kolkata,16-11-2026,25.72
+tomato,Chennai Koyambedu,17-10-2026,32.51
+tomato,Chennai Koyambedu,18-10-2026,32.31
+tomato,Chennai Koyambedu,19-10-2026,32.77
+tomato,Chennai Koyambedu,20-10-2026,33.03
+tomato,Chennai Koyambedu,21-10-2026,32.62
+tomato,Chennai Koyambedu,22-10-2026,32.43
+tomato,Chennai Koyambedu,23-10-2026,32.46
+tomato,Chennai Koyambedu,24-10-2026,32.19
+tomato,Chennai Koyambedu,25-10-2026,31.73
+tomato,Chennai Koyambedu,26-10-2026,32.69
+tomato,Chennai Koyambedu,27-10-2026,32.54
+tomato,Chennai Koyambedu,28-10-2026,31.99
+tomato,Chennai Koyambedu,29-10-2026,32.38
+tomato,Chennai Koyambedu,30-10-2026,32.29
+tomato,Chennai Koyambedu,31-10-2026,32.28
+tomato,Chennai Koyambedu,01-11-2026,31.95
+tomato,Chennai Koyambedu,02-11-2026,31.32
+tomato,Chennai Koyambedu,03-11-2026,31.25
+tomato,Chennai Koyambedu,04-11-2026,30.86
+tomato,Chennai Koyambedu,05-11-2026,29.85
+tomato,Chennai Koyambedu,06-11-2026,29.64
+tomato,Chennai Koyambedu,07-11-2026,28.67
+tomato,Chennai Koyambedu,08-11-2026,28.38
+tomato,Chennai Koyambedu,09-11-2026,28.57
+tomato,Chennai Koyambedu,10-11-2026,28.19
+tomato,Chennai Koyambedu,11-11-2026,27.34
+tomato,Chennai Koyambedu,12-11-2026,26.3
+tomato,Chennai Koyambedu,13-11-2026,25.97
+tomato,Chennai Koyambedu,14-11-2026,26.44
+tomato,Chennai Koyambedu,15-11-2026,27.05
+tomato,Chennai Koyambedu,16-11-2026,26.6
+tomato,Hyderabad Bowenpally,17-10-2026,31.76
+tomato,Hyderabad Bowenpally,18-10-2026,32.57
+tomato,Hyderabad Bowenpally,19-10-2026,33.13
+tomato,Hyderabad Bowenpally,20-10-2026,33.79
+tomato,Hyderabad Bowenpally,21-10-2026,34.07
+tomato,Hyderabad Bowenpally,22-10-2026,34.53
+tomato,Hyderabad Bowenpally,23-10-2026,33.38
+tomato,Hyderabad Bowenpally,24-10-2026,32.67
+tomato,Hyderabad Bowenpally,25-10-2026,32.6
+tomato,Hyderabad Bowenpally,26-10-2026,32.28
+tomato,Hyderabad Bowenpally,27-10-2026,31.85
+tomato,Hyderabad Bowenpally,28-10-2026,31.71
+tomato,Hyderabad Bowenpally,29-10-2026,32.25
+tomato,Hyderabad Bowenpally,30-10-2026,32.06
+tomato,Hyderabad Bowenpally,31-10-2026,33.5
+tomato,Hyderabad Bowenpally,01-11-2026,33.52
+tomato,Hyderabad Bowenpally,02-11-2026,33.58
+tomato,Hyderabad Bowenpally,03-11-2026,32.87
+tomato,Hyderabad Bowenpally,04-11-2026,31.96
+tomato,Hyderabad Bowenpally,05-11-2026,32.39
+tomato,Hyderabad Bowenpally,06-11-2026,31.38
+tomato,Hyderabad Bowenpally,07-11-2026,32.38
+tomato,Hyderabad Bowenpally,08-11-2026,32.16
+tomato,Hyderabad Bowenpally,09-11-2026,31.64
+tomato,Hyderabad Bowenpally,10-11-2026,31.74
+tomato,Hyderabad Bowenpally,11-11-2026,31.42
+tomato,Hyderabad Bowenpally,12-11-2026,31
+tomato,Hyderabad Bowenpally,13-11-2026,29.96
+tomato,Hyderabad Bowenpally,14-11-2026,30.52
+tomato,Hyderabad Bowenpally,15-11-2026,30.77
+tomato,Hyderabad Bowenpally,16-11-2026,30.27
+tomato,Bengaluru Yeshwanthpur,17-10-2026,32.76
+tomato,Bengaluru Yeshwanthpur,18-10-2026,33.02
+tomato,Bengaluru Yeshwanthpur,19-10-2026,32.66
+tomato,Bengaluru Yeshwanthpur,20-10-2026,32.92
+tomato,Bengaluru Yeshwanthpur,21-10-2026,33.2
+tomato,Bengaluru Yeshwanthpur,22-10-2026,33.77
+tomato,Bengaluru Yeshwanthpur,23-10-2026,34.82
+tomato,Bengaluru Yeshwanthpur,24-10-2026,33.5
+tomato,Bengaluru Yeshwanthpur,25-10-2026,33.53
+tomato,Bengaluru Yeshwanthpur,26-10-2026,34.25
+tomato,Bengaluru Yeshwanthpur,27-10-2026,34.98
+tomato,Bengaluru Yeshwanthpur,28-10-2026,35.17
+tomato,Bengaluru Yeshwanthpur,29-10-2026,34.52
+tomato,Bengaluru Yeshwanthpur,30-10-2026,35.36
+tomato,Bengaluru Yeshwanthpur,31-10-2026,35.64
+tomato,Bengaluru Yeshwanthpur,01-11-2026,34.98
+tomato,Bengaluru Yeshwanthpur,02-11-2026,37.59
+tomato,Bengaluru Yeshwanthpur,03-11-2026,38.61
+tomato,Bengaluru Yeshwanthpur,04-11-2026,39.26
+tomato,Bengaluru Yeshwanthpur,05-11-2026,40.84
+tomato,Bengaluru Yeshwanthpur,06-11-2026,40.37
+tomato,Bengaluru Yeshwanthpur,07-11-2026,41.13
+tomato,Bengaluru Yeshwanthpur,08-11-2026,42
+tomato,Bengaluru Yeshwanthpur,09-11-2026,41.94
+tomato,Bengaluru Yeshwanthpur,10-11-2026,42.73
+tomato,Bengaluru Yeshwanthpur,11-11-2026,42.97
+tomato,Bengaluru Yeshwanthpur,12-11-2026,42.46
+tomato,Bengaluru Yeshwanthpur,13-11-2026,41.84
+tomato,Bengaluru Yeshwanthpur,14-11-2026,41.05
+tomato,Bengaluru Yeshwanthpur,15-11-2026,40.97
+tomato,Bengaluru Yeshwanthpur,16-11-2026,41.18
+tomato,Mumbai Vashi,17-10-2026,33.82
+tomato,Mumbai Vashi,18-10-2026,34.6
+tomato,Mumbai Vashi,19-10-2026,34.84
+tomato,Mumbai Vashi,20-10-2026,34.3
+tomato,Mumbai Vashi,21-10-2026,34.64
+tomato,Mumbai Vashi,22-10-2026,34.91
+tomato,Mumbai Vashi,23-10-2026,34.52
+tomato,Mumbai Vashi,24-10-2026,33.09
+tomato,Mumbai Vashi,25-10-2026,34.29
+tomato,Mumbai Vashi,26-10-2026,32.92
+tomato,Mumbai Vashi,27-10-2026,32.95
+tomato,Mumbai Vashi,28-10-2026,32.64
+tomato,Mumbai Vashi,29-10-2026,32.23
+tomato,Mumbai Vashi,30-10-2026,32.45
+tomato,Mumbai Vashi,31-10-2026,32.92
+tomato,Mumbai Vashi,01-11-2026,32.35
+tomato,Mumbai Vashi,02-11-2026,31.25
+tomato,Mumbai Vashi,03-11-2026,31.47
+tomato,Mumbai Vashi,04-11-2026,32.11
+tomato,Mumbai Vashi,05-11-2026,31.85
+tomato,Mumbai Vashi,06-11-2026,33.05
+tomato,Mumbai Vashi,07-11-2026,32.57
+tomato,Mumbai Vashi,08-11-2026,33.61
+tomato,Mumbai Vashi,09-11-2026,33.55
+tomato,Mumbai Vashi,10-11-2026,33.6
+tomato,Mumbai Vashi,11-11-2026,34.23
+tomato,Mumbai Vashi,12-11-2026,33.64
+tomato,Mumbai Vashi,13-11-2026,33.61
+tomato,Mumbai Vashi,14-11-2026,33.53
+tomato,Mumbai Vashi,15-11-2026,33.21
+tomato,Mumbai Vashi,16-11-2026,33.19
+tomato,Pune Gultekdi,17-10-2026,29.5
+tomato,Pune Gultekdi,18-10-2026,28.97
+tomato,Pune Gultekdi,19-10-2026,28.23
+tomato,Pune Gultekdi,20-10-2026,27.99
+tomato,Pune Gultekdi,21-10-2026,27.81
+tomato,Pune Gultekdi,22-10-2026,27.1
+tomato,Pune Gultekdi,23-10-2026,26.71
+tomato,Pune Gultekdi,24-10-2026,26.24
+tomato,Pune Gultekdi,25-10-2026,25.67
+tomato,Pune Gultekdi,26-10-2026,25.42
+tomato,Pune Gultekdi,27-10-2026,25.1
+tomato,Pune Gultekdi,28-10-2026,24.94
+tomato,Pune Gultekdi,29-10-2026,25.07
+tomato,Pune Gultekdi,30-10-2026,24.87
+tomato,Pune Gultekdi,31-10-2026,24.43
+tomato,Pune Gultekdi,01-11-2026,24.07
+tomato,Pune Gultekdi,02-11-2026,23.9
+tomato,Pune Gultekdi,03-11-2026,23.77
+tomato,Pune Gultekdi,04-11-2026,23.67
+tomato,Pune Gultekdi,05-11-2026,23.85
+tomato,Pune Gultekdi,06-11-2026,23.67
+tomato,Pune Gultekdi,07-11-2026,23.64
+tomato,Pune Gultekdi,08-11-2026,23.6
+tomato,Pune Gultekdi,09-11-2026,23.08
+tomato,Pune Gultekdi,10-11-2026,23.07
+tomato,Pune Gultekdi,11-11-2026,22.85
+tomato,Pune Gultekdi,12-11-2026,23.4
+tomato,Pune Gultekdi,13-11-2026,23.51
+tomato,Pune Gultekdi,14-11-2026,23.34
+tomato,Pune Gultekdi,15-11-2026,22.66
+tomato,Pune Gultekdi,16-11-2026,22.56
+tomato,Ahmedabad,17-10-2026,29.68
+tomato,Ahmedabad,18-10-2026,29.24
+tomato,Ahmedabad,19-10-2026,29.51
+tomato,Ahmedabad,20-10-2026,29.62
+tomato,Ahmedabad,21-10-2026,29.09
+tomato,Ahmedabad,22-10-2026,28.78
+tomato,Ahmedabad,23-10-2026,28.05
+tomato,Ahmedabad,24-10-2026,28.18
+tomato,Ahmedabad,25-10-2026,28.41
+tomato,Ahmedabad,26-10-2026,28.72
+tomato,Ahmedabad,27-10-2026,27.68
+tomato,Ahmedabad,28-10-2026,28.03
+tomato,Ahmedabad,29-10-2026,27.66
+tomato,Ahmedabad,30-10-2026,27.66
+tomato,Ahmedabad,31-10-2026,27.02
+tomato,Ahmedabad,01-11-2026,26.8
+tomato,Ahmedabad,02-11-2026,26.82
+tomato,Ahmedabad,03-11-2026,27.46
+tomato,Ahmedabad,04-11-2026,27.84
+tomato,Ahmedabad,05-11-2026,28.23
+tomato,Ahmedabad,06-11-2026,27.09
+tomato,Ahmedabad,07-11-2026,26.85
+tomato,Ahmedabad,08-11-2026,26.73
+tomato,Ahmedabad,09-11-2026,26.34
+tomato,Ahmedabad,10-11-2026,27.08
+tomato,Ahmedabad,11-11-2026,27.25
+tomato,Ahmedabad,12-11-2026,26.64
+tomato,Ahmedabad,13-11-2026,27.55
+tomato,Ahmedabad,14-11-2026,27.25
+tomato,Ahmedabad,15-11-2026,27.35
+tomato,Ahmedabad,16-11-2026,26.86
+grapes,Delhi Azadpur,17-10-2026,104.04
+grapes,Delhi Azadpur,18-10-2026,100.6
+grapes,Delhi Azadpur,19-10-2026,98.89
+grapes,Delhi Azadpur,20-10-2026,99.77
+grapes,Delhi Azadpur,21-10-2026,101.79
+grapes,Delhi Azadpur,22-10-2026,103.14
+grapes,Delhi Azadpur,23-10-2026,104.68
+grapes,Delhi Azadpur,24-10-2026,106.29
+grapes,Delhi Azadpur,25-10-2026,108.43
+grapes,Delhi Azadpur,26-10-2026,106.32
+grapes,Delhi Azadpur,27-10-2026,105.22
+grapes,Delhi Azadpur,28-10-2026,106.99
+grapes,Delhi Azadpur,29-10-2026,105.05
+grapes,Delhi Azadpur,30-10-2026,103.73
+grapes,Delhi Azadpur,31-10-2026,100.25
+grapes,Delhi Azadpur,01-11-2026,100.92
+grapes,Delhi Azadpur,02-11-2026,100.89
+grapes,Delhi Azadpur,03-11-2026,103.99
+grapes,Delhi Azadpur,04-11-2026,101.79
+grapes,Delhi Azadpur,05-11-2026,103.09
+grapes,Delhi Azadpur,06-11-2026,107.2
+grapes,Delhi Azadpur,07-11-2026,102.56
+grapes,Delhi Azadpur,08-11-2026,102.91
+grapes,Delhi Azadpur,09-11-2026,103.9
+grapes,Delhi Azadpur,10-11-2026,103.99
+grapes,Delhi Azadpur,11-11-2026,103.55
+grapes,Delhi Azadpur,12-11-2026,104.18
+grapes,Delhi Azadpur,13-11-2026,106.19
+grapes,Delhi Azadpur,14-11-2026,105.78
+grapes,Delhi Azadpur,15-11-2026,104
+grapes,Delhi Azadpur,16-11-2026,100.64
+grapes,Kolkata,17-10-2026,96.89
+grapes,Kolkata,18-10-2026,98.92
+grapes,Kolkata,19-10-2026,98.41
+grapes,Kolkata,20-10-2026,95.73
+grapes,Kolkata,21-10-2026,96.65
+grapes,Kolkata,22-10-2026,95.8
+grapes,Kolkata,23-10-2026,98.65
+grapes,Kolkata,24-10-2026,98.15
+grapes,Kolkata,25-10-2026,99.56
+grapes,Kolkata,26-10-2026,101.06
+grapes,Kolkata,27-10-2026,102.96
+grapes,Kolkata,28-10-2026,108
+grapes,Kolkata,29-10-2026,103.56
+grapes,Kolkata,30-10-2026,104.73
+grapes,Kolkata,31-10-2026,110.49
+grapes,Kolkata,01-11-2026,109.93
+grapes,Kolkata,02-11-2026,109.05
+grapes,Kolkata,03-11-2026,110.42
+grapes,Kolkata,04-11-2026,111.83
+grapes,Kolkata,05-11-2026,110.54
+grapes,Kolkata,06-11-2026,113
+grapes,Kolkata,07-11-2026,110.46
+grapes,Kolkata,08-11-2026,110.62
+grapes,Kolkata,09-11-2026,112.68
+grapes,Kolkata,10-11-2026,108.32
+grapes,Kolkata,11-11-2026,107.42
+grapes,Kolkata,12-11-2026,108.63
+grapes,Kolkata,13-11-2026,109.37
+grapes,Kolkata,14-11-2026,109.69
+grapes,Kolkata,15-11-2026,108.49
+grapes,Kolkata,16-11-2026,111.47
+grapes,Chennai Koyambedu,17-10-2026,97.26
+grapes,Chennai Koyambedu,18-10-2026,99
+grapes,Chennai Koyambedu,19-10-2026,98.09
+grapes,Chennai Koyambedu,20-10-2026,96.61
+grapes,Chennai Koyambedu,21-10-2026,94.45
+grapes,Chennai Koyambedu,22-10-2026,95.64
+grapes,Chennai Koyambedu,23-10-2026,92.79
+grapes,Chennai Koyambedu,24-10-2026,94.12
+grapes,Chennai Koyambedu,25-10-2026,90.93
+grapes,Chennai Koyambedu,26-10-2026,90.03
+grapes,Chennai Koyambedu,27-10-2026,89.03
+grapes,Chennai Koyambedu,28-10-2026,92.59
+grapes,Chennai Koyambedu,29-10-2026,93.99
+grapes,Chennai Koyambedu,30-10-2026,94.75
+grapes,Chennai Koyambedu,31-10-2026,96.34
+grapes,Chennai Koyambedu,01-11-2026,99.08
+grapes,Chennai Koyambedu,02-11-2026,97.57
+grapes,Chennai Koyambedu,03-11-2026,95.74
+grapes,Chennai Koyambedu,04-11-2026,94.37
+grapes,Chennai Koyambedu,05-11-2026,90.54
+grapes,Chennai Koyambedu,06-11-2026,89.63
+grapes,Chennai Koyambedu,07-11-2026,88.55
+grapes,Chennai Koyambedu,08-11-2026,88.75
+grapes,Chennai Koyambedu,09-11-2026,88.4
+grapes,Chennai Koyambedu,10-11-2026,87.07
+grapes,Chennai Koyambedu,11-11-2026,88.49
+grapes,Chennai Koyambedu,12-11-2026,90.43
+grapes,Chennai Koyambedu,13-11-2026,88.93
+grapes,Chennai Koyambedu,14-11-2026,88.18
+grapes,Chennai Koyambedu,15-11-2026,83.46
+grapes,Chennai Koyambedu,16-11-2026,85.1
+grapes,Hyderabad Bowenpally,17-10-2026,93.82
+grapes,Hyderabad Bowenpally,18-10-2026,92.37
+grapes,Hyderabad Bowenpally,19-10-2026,93.67
+grapes,Hyderabad Bowenpally,20-10-2026,95.3
+grapes,Hyderabad Bowenpally,21-10-2026,97.82
+grapes,Hyderabad Bowenpally,22-10-2026,99.79
+grapes,Hyderabad Bowenpally,23-10-2026,100.34
+grapes,Hyderabad Bowenpally,24-10-2026,99.7
+grapes,Hyderabad Bowenpally,25-10-2026,99.71
+grapes,Hyderabad Bowenpally,26-10-2026,99.94
+grapes,Hyderabad Bowenpally,27-10-2026,102.66
+grapes,Hyderabad Bowenpally,28-10-2026,103.11
+grapes,Hyderabad Bowenpally,29-10-2026,105.06
+grapes,Hyderabad Bowenpally,30-10-2026,106.55
+grapes,Hyderabad Bowenpally,31-10-2026,104.6
+grapes,Hyderabad Bowenpally,01-11-2026,104.45
+grapes,Hyderabad Bowenpally,02-11-2026,108.5
+grapes,Hyderabad Bowenpally,03-11-2026,111.96
+grapes,Hyderabad Bowenpally,04-11-2026,112.72
+grapes,Hyderabad Bowenpally,05-11-2026,115.6
+grapes,Hyderabad Bowenpally,06-11-2026,115.45
+grapes,Hyderabad Bowenpally,07-11-2026,116.2
+grapes,Hyderabad Bowenpally,08-11-2026,118.71
+grapes,Hyderabad Bowenpally,09-11-2026,121.65
+grapes,Hyderabad Bowenpally,10-11-2026,124.55
+grapes,Hyderabad Bowenpally,11-11-2026,125.77
+grapes,Hyderabad Bowenpally,12-11-2026,126.81
+grapes,Hyderabad Bowenpally,13-11-2026,125.27
+grapes,Hyderabad Bowenpally,14-11-2026,120.09
+grapes,Hyderabad Bowenpally,15-11-2026,121.17
+grapes,Hyderabad Bowenpally,16-11-2026,126.46
+grapes,Bengaluru Yeshwanthpur,17-10-2026,96.77
+grapes,Bengaluru Yeshwanthpur,18-10-2026,99.44
+grapes,Bengaluru Yeshwanthpur,19-10-2026,99.53
+grapes,Bengaluru Yeshwanthpur,20-10-2026,102.78
+grapes,Bengaluru Yeshwanthpur,21-10-2026,100.44
+grapes,Bengaluru Yeshwanthpur,22-10-2026,100.28
+grapes,Bengaluru Yeshwanthpur,23-10-2026,98.47
+grapes,Bengaluru Yeshwanthpur,24-10-2026,94.43
+grapes,Bengaluru Yeshwanthpur,25-10-2026,91.56
+grapes,Bengaluru Yeshwanthpur,26-10-2026,91.81
+grapes,Bengaluru Yeshwanthpur,27-10-2026,94.78
+grapes,Bengaluru Yeshwanthpur,28-10-2026,93.12
+grapes,Bengaluru Yeshwanthpur,29-10-2026,94.22
+grapes,Bengaluru Yeshwanthpur,30-10-2026,93.56
+grapes,Bengaluru Yeshwanthpur,31-10-2026,92.53
+grapes,Bengaluru Yeshwanthpur,01-11-2026,90.83
+grapes,Bengaluru Yeshwanthpur,02-11-2026,87.75
+grapes,Bengaluru Yeshwanthpur,03-11-2026,90.07
+grapes,Bengaluru Yeshwanthpur,04-11-2026,89.83
+grapes,Bengaluru Yeshwanthpur,05-11-2026,89.06
+grapes,Bengaluru Yeshwanthpur,06-11-2026,92.96
+grapes,Bengaluru Yeshwanthpur,07-11-2026,91.52
+grapes,Bengaluru Yeshwanthpur,08-11-2026,88.33
+grapes,Bengaluru Yeshwanthpur,09-11-2026,88.82
+grapes,Bengaluru Yeshwanthpur,10-11-2026,84.96
+grapes,Bengaluru Yeshwanthpur,11-11-2026,84.99
+grapes,Bengaluru Yeshwanthpur,12-11-2026,83.5
+grapes,Bengaluru Yeshwanthpur,13-11-2026,82.08
+grapes,Bengaluru Yeshwanthpur,14-11-2026,80.69
+grapes,Bengaluru Yeshwanthpur,15-11-2026,80.58
+grapes,Bengaluru Yeshwanthpur,16-11-2026,81.95
+grapes,Mumbai Vashi,17-10-2026,98.55
+grapes,Mumbai Vashi,18-10-2026,98.13
+grapes,Mumbai Vashi,19-10-2026,95.43
+grapes,Mumbai Vashi,20-10-2026,96.98
+grapes,Mumbai Vashi,21-10-2026,95.49
+grapes,Mumbai Vashi,22-10-2026,94.79
+grapes,Mumbai Vashi,23-10-2026,94.4
+grapes,Mumbai Vashi,24-10-2026,93.73
+grapes,Mumbai Vashi,25-10-2026,96.17
+grapes,Mumbai Vashi,26-10-2026,91.43
+grapes,Mumbai Vashi,27-10-2026,92.64
+grapes,Mumbai Vashi,28-10-2026,93.7
+grapes,Mumbai Vashi,29-10-2026,92.07
+grapes,Mumbai Vashi,30-10-2026,90.55
+grapes,Mumbai Vashi,31-10-2026,88.56
+grapes,Mumbai Vashi,01-11-2026,90.7
+grapes,Mumbai Vashi,02-11-2026,89.69
+grapes,Mumbai Vashi,03-11-2026,90.62
+grapes,Mumbai Vashi,04-11-2026,90
+grapes,Mumbai Vashi,05-11-2026,90.45
+grapes,Mumbai Vashi,06-11-2026,93.29
+grapes,Mumbai Vashi,07-11-2026,93.56
+grapes,Mumbai Vashi,08-11-2026,92.77
+grapes,Mumbai Vashi,09-11-2026,90.16
+grapes,Mumbai Vashi,10-11-2026,89.53
+grapes,Mumbai Vashi,11-11-2026,91.45
+grapes,Mumbai Vashi,12-11-2026,88.94
+grapes,Mumbai Vashi,13-11-2026,92.63
+grapes,Mumbai Vashi,14-11-2026,90.25
+grapes,Mumbai Vashi,15-11-2026,90.46
+grapes,Mumbai Vashi,16-11-2026,87.77
+grapes,Pune Gultekdi,17-10-2026,91.75
+grapes,Pune Gultekdi,18-10-2026,91.32
+grapes,Pune Gultekdi,19-10-2026,92.73
+grapes,Pune Gultekdi,20-10-2026,90.92
+grapes,Pune Gultekdi,21-10-2026,89.59
+grapes,Pune Gultekdi,22-10-2026,87.52
+grapes,Pune Gultekdi,23-10-2026,86.55
+grapes,Pune Gultekdi,24-10-2026,86.4
+grapes,Pune Gultekdi,25-10-2026,87.5
+grapes,Pune Gultekdi,26-10-2026,87.65
+grapes,Pune Gultekdi,27-10-2026,85.25
+grapes,Pune Gultekdi,28-10-2026,87.3
+grapes,Pune Gultekdi,29-10-2026,88.46
+grapes,Pune Gultekdi,30-10-2026,88.94
+grapes,Pune Gultekdi,31-10-2026,90.41
+grapes,Pune Gultekdi,01-11-2026,90.9
+grapes,Pune Gultekdi,02-11-2026,91.41
+grapes,Pune Gultekdi,03-11-2026,92.04
+grapes,Pune Gultekdi,04-11-2026,91.88
+grapes,Pune Gultekdi,05-11-2026,92.99
+grapes,Pune Gultekdi,06-11-2026,92.35
+grapes,Pune Gultekdi,07-11-2026,85.94
+grapes,Pune Gultekdi,08-11-2026,85.4
+grapes,Pune Gultekdi,09-11-2026,85.95
+grapes,Pune Gultekdi,10-11-2026,86.37
+grapes,Pune Gultekdi,11-11-2026,85.24
+grapes,Pune Gultekdi,12-11-2026,86.2
+grapes,Pune Gultekdi,13-11-2026,88.19
+grapes,Pune Gultekdi,14-11-2026,86.57
+grapes,Pune Gultekdi,15-11-2026,85.41
+grapes,Pune Gultekdi,16-11-2026,87.96
+grapes,Ahmedabad,17-10-2026,89.11
+grapes,Ahmedabad,18-10-2026,87.53
+grapes,Ahmedabad,19-10-2026,85.87
+grapes,Ahmedabad,20-10-2026,86.3
+grapes,Ahmedabad,21-10-2026,85.8
+grapes,Ahmedabad,22-10-2026,87.13
+grapes,Ahmedabad,23-10-2026,87.4
+grapes,Ahmedabad,24-10-2026,89.84
+grapes,Ahmedabad,25-10-2026,89.43
+grapes,Ahmedabad,26-10-2026,86.7
+grapes,Ahmedabad,27-10-2026,85.5
+grapes,Ahmedabad,28-10-2026,85.03
+grapes,Ahmedabad,29-10-2026,84.72
+grapes,Ahmedabad,30-10-2026,84.89
+grapes,Ahmedabad,31-10-2026,83.74
+grapes,Ahmedabad,01-11-2026,85.76
+grapes,Ahmedabad,02-11-2026,85.19
+grapes,Ahmedabad,03-11-2026,84.43
+grapes,Ahmedabad,04-11-2026,84.99
+grapes,Ahmedabad,05-11-2026,85
+grapes,Ahmedabad,06-11-2026,83.14
+grapes,Ahmedabad,07-11-2026,82.19
+grapes,Ahmedabad,08-11-2026,82.24
+grapes,Ahmedabad,09-11-2026,85.95
+grapes,Ahmedabad,10-11-2026,84.69
+grapes,Ahmedabad,11-11-2026,85.16
+grapes,Ahmedabad,12-11-2026,86.52
+grapes,Ahmedabad,13-11-2026,85.28
+grapes,Ahmedabad,14-11-2026,87.84
+grapes,Ahmedabad,15-11-2026,90.65
+grapes,Ahmedabad,16-11-2026,90.52

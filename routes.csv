@@ -1,0 +1,7 @@
+route_id,origin,destination,commodity,waypoints
+R001,Coorg,Delhi Azadpur,avocado,Coorg -> Mysore -> Bengaluru Yeshwanthpur -> Hyderabad Bowenpally -> Nagpur -> Delhi Azadpur
+R002,Coorg,Chennai Koyambedu,avocado,Coorg -> Mysore -> Bengaluru Yeshwanthpur -> Chennai Koyambedu
+R003,Ratnagiri,Delhi Azadpur,mango,Ratnagiri -> Mumbai Vashi -> Pune Gultekdi -> Indore -> Delhi Azadpur
+R004,Nashik,Kolkata,grapes,Nashik -> Ahmedabad -> Indore -> Nagpur -> Kolkata
+R005,Theni,Delhi Azadpur,banana,Theni -> Bengaluru Yeshwanthpur -> Hyderabad Bowenpally -> Nagpur -> Delhi Azadpur
+R006,Nashik,Delhi Azadpur,tomato,Nashik -> Ahmedabad -> Indore -> Delhi Azadpur
